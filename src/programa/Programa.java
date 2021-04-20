@@ -46,6 +46,8 @@ public class Programa {
 			}
 		}
 		
+		//Deu certo!
+		
 		sc.close();
 
 	}
